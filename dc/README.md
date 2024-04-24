@@ -14,6 +14,8 @@ Specifically:
 * Software:
   * A Linux or Mac computer
   * Java Development Kit 11 or newer
+ 
+  * 
   * maven 
 * Data:
   * Straight-track data (both solenoid and torus should be off) with electron tracks in the forward detector
